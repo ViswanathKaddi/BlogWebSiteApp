@@ -1,2 +1,2 @@
 # BlogWebSiteApp
-Simple web app that includes Creating, Editing and Deleting a blog
+Web application to maintain a blog
